@@ -1,0 +1,16 @@
+{
+  "name": "css-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.9.3",
+    "parcel": "^2.8.0"
+  }
+}
